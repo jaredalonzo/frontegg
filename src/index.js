@@ -6,8 +6,8 @@ import './index.css';
 import { FronteggProvider } from '@frontegg/react';
 
 const contextOptions = {
-    baseUrl: 'https://app-91s3nglby108.frontegg.com',
-    clientId: '7118886b-182c-48e9-9b29-9d9e99db80c8'
+    baseUrl: 'https://app-b9ezyrhy288z.frontegg.com',
+    clientId: 'c2624f2e-9382-49c9-a607-e5702a220630'
 };
 
 // Replace this with your app logo 👇
